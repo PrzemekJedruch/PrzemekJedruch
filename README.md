@@ -61,12 +61,6 @@ I split my time between:
 
 ---
 
-## ✍️ I write, document & share  
-- Soon: blog + portfolio → **https://exon5.art**  
-- Regular creative and technical updates on social platforms  
-- Documenting my personal 30-minute daily creation framework  
-
----
 
 ## 📣 Socials  
 - 🔗 **GitHub:** you are here  
