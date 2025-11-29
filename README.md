@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi there 👋, I'm **[Twoje Imię]**
 
-<!--
-**PrzemekJedruch/PrzemekJedruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software builder, data analyst and digital artist developing long-term projects at the intersection of **AI, narrative design, system automation and creative technology**.
 
-Here are some ideas to get you started:
+With strong experience in **management, process optimization and leading complex operations**, I combine strategic thinking with technical execution — creating tools and frameworks that bring structure, clarity and measurable improvements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy crafting systems that simplify work, accelerate decision-making and turn complexity into predictable, well-organized workflows.
+
+---
+
+## 🧠 About me  
+With a background in **Computer Science** and the **Data Analyst Nanodegree at Udacity**, I work across software development, analytics and digital art.  
+I have many years of experience in **managing teams, operations and multi-layer projects**, which directly shapes the way I design and build systems — structured, scalable and efficient.
+
+I split my time between:
+- 🛠 creating internal tools, automation workflows and data-driven systems  
+- 🎨 developing the cyberpunk/surreal art universe **EXON 5**  
+- 📈 researching AI-driven storytelling, algorithmic creativity and predictive models  
+- 🧩 designing processes that improve productivity and decision-making  
+
+---
+
+## 🔭 I’m currently working on  
+- **EXON 5** — a cyberpunk narrative art project with expanding lore  
+- **Data automation systems** for organizing and analyzing operational information  
+- **A personal algorithm for creative idea generation** and visual concept exploration  
+- **Algorithmic trading experiments** — testing, optimizing and evaluating strategies based on technical indicators, sentiment and pattern detection  
+- **Long-term planning frameworks** that turn goals into daily, repeatable habits  
+
+---
+
+## 🧰 Technologies & Tools  
+
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### **Data / Analytics**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### **AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+---
+
+## ✍️ I write, document & share  
+- Soon: blog + portfolio → **https://exon5.art**  
+- Regular creative and technical updates on social platforms  
+- Documenting my personal 30-minute daily creation framework  
+
+---
+
+## 📣 Socials  
+- 🔗 **GitHub:** you are here  
+- 🌐 **Website:** https://exon5.art  
+- 🖼 **NFT Art:** OpenSea (soon)  
+- 📸 **Instagram:** (tu wstaw link)  
+- 🐦 **Twitter/X:** (tu wstaw link)  
+
+---
+
+## 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&count_private=true&hide_border=true)
+
+---
+
+## 😄 Pronouns  
+he/him
+
+---
+
+## 🧭 Fun Facts  
+- Łączę technologię, sztukę i zarządzanie w jednym stylu pracy.  
+- Tworzę i testuję własne algorytmy — zarówno kreatywne, jak i tradingowe.  
+- Projektuję systemy, które porządkują procesy i pozwalają pracować mądrzej.  
+- EXON 5 to mój długoterminowy projekt łączący sztukę, AI i futurystyczną narrację.  
