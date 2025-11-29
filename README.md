@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **[Twoje Imię]**
+# Hi there 👋, I'm **Przemek**
 
 I'm a software builder, data analyst and digital artist developing long-term projects at the intersection of **AI, narrative design, system automation and creative technology**.
 
@@ -35,7 +35,6 @@ I split my time between:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### **Data / Analytics**
@@ -47,7 +46,6 @@ I split my time between:
 
 ### **AI / ML**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
@@ -55,7 +53,6 @@ I split my time between:
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
@@ -70,16 +67,10 @@ I split my time between:
 
 ## 📣 Socials  
 - 🔗 **GitHub:** you are here  
-- 🌐 **Website:** https://exon5.art  
-- 🖼 **NFT Art:** OpenSea (soon)  
+- 🌐 **Website:** https://exon5world.com  
+- 🖼 **NFT Art:** OpenSea https://opensea.io/collection/exon-5
 - 📸 **Instagram:** (tu wstaw link)  
 - 🐦 **Twitter/X:** (tu wstaw link)  
-
----
-
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&count_private=true&hide_border=true)
 
 ---
 
@@ -89,7 +80,7 @@ he/him
 ---
 
 ## 🧭 Fun Facts  
-- Łączę technologię, sztukę i zarządzanie w jednym stylu pracy.  
-- Tworzę i testuję własne algorytmy — zarówno kreatywne, jak i tradingowe.  
-- Projektuję systemy, które porządkują procesy i pozwalają pracować mądrzej.  
-- EXON 5 to mój długoterminowy projekt łączący sztukę, AI i futurystyczną narrację.  
+- I combine technology, art and management into one integrated way of working.
+- I create and test my own algorithms — both creative and trading-oriented.
+- I design systems that organize processes and enable smarter, more efficient work.
+- EXON 5 is my long-term project blending art, AI and futuristic narrative world-building.
