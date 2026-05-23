@@ -64,8 +64,8 @@ I split my time between:
 
 ## 📣 Socials  
 - 🔗 **GitHub:** you are here  
-- 🌐 **Website:** https://exon5world.com  
-- 🖼 **NFT Art:** OpenSea https://opensea.io/collection/exon-5
+- 🌐 **Website:** 
+- 🖼 **NFT Art:** 
 - 📸 **Instagram:** 
 - 🐦 **Twitter/X:**  
 
